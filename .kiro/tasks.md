@@ -1,0 +1,4 @@
+- Crear entorno Flask
+- Implementar endpoint `/explicar`
+- Probar localmente
+- Subir a GitHub y desplegar

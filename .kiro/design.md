@@ -1,0 +1,3 @@
+- Flask como framework
+- Un solo endpoint POST en `/explicar`
+- Simulación de IA en esta etapa
